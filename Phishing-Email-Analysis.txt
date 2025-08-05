@@ -1,0 +1,43 @@
+Phishing Email Analysis Report:
+
+Phishing Indicators:
+
+1.Spoofed email address (support@msupdate.net)
+
+2.Unofficial domain not owned by Microsoft
+
+3.Urgent language to create panic
+
+4.Social engineering tactics ("Your account has been compromised")
+
+5.Generic salutation (no name or personalization)
+
+6.Imitation of Microsoft’s branding and layout
+
+7.Potential hidden malicious links
+
+8.No digital signature or email authentication
+
+9.Request to take immediate action (reset password, review info)
+
+10.IP address and browser details added to appear legitimate
+
+11.Encouragement to click suspicious links under the pretext of security
+
+12.No contact number or official support verification
+
+13.Overuse of technical info to gain trust
+
+
+
+Conclusion:
+
+This email is a phishing attempt that:
+
+Pretends to be Microsoft
+
+Uses urgency to manipulate user behavior
+
+Directs users toward potentially harmful actions
+
+Action: This email should be reported to Microsoft (via Microsoft's phishing report page) and deleted immediately.
